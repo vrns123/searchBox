@@ -49,7 +49,7 @@ app.get('/api/search/:_toSearch', (req, res) => {
       else{
           setTimeout(function(){
               res.send({'results': result});
-          }, 6000
+          }, 300000
     )}
 
   });
