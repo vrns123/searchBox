@@ -5,9 +5,9 @@
 
 *instruction to run the project
 
-git clone https://varun_iitd@bitbucket.org/varun_iitd/assignment_sp.git
+git clone https://github.com/vrns123/searchBox.git
 
-1. `cd assignment_sp`
+1. `cd searchBox`
 2. `npm install`
 3. `npm install -g nodemon`
 4.  `nodemon ./app.js`
