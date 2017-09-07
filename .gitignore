@@ -1,0 +1,16 @@
+# Add any directories, files, or patterns you don't want to be tracked by versi$
+
+################################################
+
+
+#Node Files#
+################################################
+node_modules
+
+# The final build will be placed in dist#
+################################################
+dist
+templates.js
+npm-debug.log.*
+*.save
+.idea
